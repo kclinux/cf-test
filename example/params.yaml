@@ -1,3 +1,3 @@
-KeyName: 'mission-test'
+KeyName: 'mission-test' 
 InstanceType: 't2.nano'
 SSHLocation: '127.0.0.1/32'
