@@ -1,0 +1,15 @@
+[
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "mission-test"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.nano"
+  },
+  {
+    "ParameterKey": "SSHLocation",
+    "ParameterValue": "127.0.0.1/32"
+  }
+]
+
